@@ -112,10 +112,6 @@
 		30437C492024DF95005B9989 /* Himotoki.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 30437BE62024A4F8005B9989 /* Himotoki.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		30437C4A2024DFAB005B9989 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30437BE52024A4F7005B9989 /* Result.framework */; };
 		30437C4B2024DFAB005B9989 /* Result.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 30437BE52024A4F7005B9989 /* Result.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		30437C4C2024E00E005B9989 /* Nimble.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30437BE92024A4F8005B9989 /* Nimble.framework */; };
-		30437C4D2024E00E005B9989 /* Nimble.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 30437BE92024A4F8005B9989 /* Nimble.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		30437C4E2024E00E005B9989 /* Quick.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30437BEC2024A4F8005B9989 /* Quick.framework */; };
-		30437C4F2024E00E005B9989 /* Quick.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 30437BEC2024A4F8005B9989 /* Quick.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		30437C502024E00E005B9989 /* ReactiveCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30437BE82024A4F8005B9989 /* ReactiveCocoa.framework */; };
 		30437C512024E00E005B9989 /* ReactiveCocoa.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 30437BE82024A4F8005B9989 /* ReactiveCocoa.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
@@ -235,8 +231,6 @@
 				30437C4B2024DFAB005B9989 /* Result.framework in Embed Frameworks */,
 				301AA51B2024ED3D00B53E15 /* MModel.framework in Embed Frameworks */,
 				30437BD020249B12005B9989 /* VView.framework in Embed Frameworks */,
-				30437C4D2024E00E005B9989 /* Nimble.framework in Embed Frameworks */,
-				30437C4F2024E00E005B9989 /* Quick.framework in Embed Frameworks */,
 				30437C512024E00E005B9989 /* ReactiveCocoa.framework in Embed Frameworks */,
 				30437C412024DD43005B9989 /* Swinject.framework in Embed Frameworks */,
 				30437C472024DF7F005B9989 /* Alamofire.framework in Embed Frameworks */,
@@ -399,10 +393,8 @@
 				30437C3D2024DC6D005B9989 /* SwinjectStoryboard.framework in Frameworks */,
 				30437C4A2024DFAB005B9989 /* Result.framework in Frameworks */,
 				30437C462024DF7F005B9989 /* Alamofire.framework in Frameworks */,
-				30437C4C2024E00E005B9989 /* Nimble.framework in Frameworks */,
 				30437C482024DF95005B9989 /* Himotoki.framework in Frameworks */,
 				30437C402024DD43005B9989 /* Swinject.framework in Frameworks */,
-				30437C4E2024E00E005B9989 /* Quick.framework in Frameworks */,
 				30437C442024DF53005B9989 /* ReactiveSwift.framework in Frameworks */,
 				30437C3E2024DD2A005B9989 /* SwinjectStoryboard.framework in Frameworks */,
 				30437BAD20249B02005B9989 /* ViewModel.framework in Frameworks */,
